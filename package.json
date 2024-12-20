@@ -21,7 +21,6 @@
     "deploy": "gh-pages -d build"
   },
   "homepage": "https://github.com/rajenderrawat/pdf-browser.git",
-
   "eslintConfig": {
     "extends": [
       "react-app",

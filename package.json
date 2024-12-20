@@ -20,7 +20,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://github.com/rajenderrawat/pdf-browser.git",
+  "homepage": "https://github.com/rajenderrawat/pdf-browser",
   "eslintConfig": {
     "extends": [
       "react-app",

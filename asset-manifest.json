@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rajenderrawat/pdf-browser.git/static/css/main.4c0a266c.css",
-    "main.js": "/rajenderrawat/pdf-browser.git/static/js/main.14e22aef.js",
-    "static/js/488.a97bc4a1.chunk.js": "/rajenderrawat/pdf-browser.git/static/js/488.a97bc4a1.chunk.js",
-    "index.html": "/rajenderrawat/pdf-browser.git/index.html",
-    "main.4c0a266c.css.map": "/rajenderrawat/pdf-browser.git/static/css/main.4c0a266c.css.map",
-    "main.14e22aef.js.map": "/rajenderrawat/pdf-browser.git/static/js/main.14e22aef.js.map",
-    "488.a97bc4a1.chunk.js.map": "/rajenderrawat/pdf-browser.git/static/js/488.a97bc4a1.chunk.js.map"
+    "main.css": "/rajenderrawat/pdf-browser/static/css/main.4c0a266c.css",
+    "main.js": "/rajenderrawat/pdf-browser/static/js/main.b52c18ec.js",
+    "static/js/488.a97bc4a1.chunk.js": "/rajenderrawat/pdf-browser/static/js/488.a97bc4a1.chunk.js",
+    "index.html": "/rajenderrawat/pdf-browser/index.html",
+    "main.4c0a266c.css.map": "/rajenderrawat/pdf-browser/static/css/main.4c0a266c.css.map",
+    "main.b52c18ec.js.map": "/rajenderrawat/pdf-browser/static/js/main.b52c18ec.js.map",
+    "488.a97bc4a1.chunk.js.map": "/rajenderrawat/pdf-browser/static/js/488.a97bc4a1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c0a266c.css",
-    "static/js/main.14e22aef.js"
+    "static/js/main.b52c18ec.js"
   ]
 }
